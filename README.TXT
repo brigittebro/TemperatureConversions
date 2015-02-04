@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Temperature Conversions
+PURPOSE OF PROJECT: To convert a temperature in Fahrenheit to Celcius and Kelvin
+VERSION or DATE: 7/21/2014
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS: Brigitte Broszus
+USER INSTRUCTIONS: Run TempConverterMain
