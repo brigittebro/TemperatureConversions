@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TempConverter()
+comment0.text=\r\n\ Default\ constructor\ for\ TempConverter\ sets\ the\ default\r\n\ value\ of\ the\ tempConverter\ object\ to\ 0.0\ degrees\r\n\ Fahrenheit\ with\ Celsius\ and\ Kelvin\ equivalents\r\n
+comment1.params=tempIn
+comment1.target=TempConverter(double)
+comment1.text=\r\n\ This\ constructor\ for\ TempConverter\ sets\ the\ Fahrenheit\r\n\ value\ to\ the\ value\ from\ tempIn,\ then\ calculates\r\n\ equivalent\ Celsius\ and\ Kelvin\ values\ using\ setTempF();\r\n
+comment2.params=
+comment2.target=double\ getTempC()
+comment2.text=\r\n\ getTempC\ retrieves\ the\ Celsius\ temperature\ value\r\n\ \r\n\ @return\ a\ double\ value\ containing\ the\ Celsius\ temperature\r\n
+comment3.params=
+comment3.target=double\ getTempK()
+comment3.text=\r\n\ getTempK\ retrieves\ the\ Kelvin\ temperature\ value\r\n\ \r\n\ @return\ a\ double\ value\ containing\ the\ Kelvin\ temperature\r\n
+comment4.params=tempIn
+comment4.target=void\ setTempF(double)
+comment4.text=\r\n\ The\ setTempF\ method\ sets\ the\ Fahrenheit\ temperature\r\n\ \r\n\ @param\ tempIn\ The\ Fahrenheit\ value\ to\ store\r\n
+numComments=5
